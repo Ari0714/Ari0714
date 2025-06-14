@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-# proficient <br>
+__proficient__<br>
 <span > 
   <img alt="Static Badge" src="https://img.shields.io/badge/React-%23c66394?style=flat-square&logo=React&logoColor=%23fff"> 
   <img alt="Static Badge" src="https://img.shields.io/badge/Vue-%2342b883?style=flat-square&logo=Vue&logoColor=%23fff"> 
