@@ -1,7 +1,7 @@
 ## Hi there 👋,  I am Ari
 
 __proficient__ <br>
-<span > 
+<span> 
   <img alt="Static Badge" src="https://img.shields.io/badge/React-%23c66394?style=flat-square&logo=React&logoColor=%23fff"> 
   <img alt="Static Badge" src="https://img.shields.io/badge/Vue-%2342b883?style=flat-square&logo=Vue&logoColor=%23fff"> 
   <img alt="Static Badge" src="https://img.shields.io/badge/TypeScript-%230072b3?style=flat-square&logo=TypeScript&logoColor=%23fff"> 
@@ -21,6 +21,7 @@ __proficient__ <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ari0714&layout=compact&langs_count=6&text_color=000&icon_color=fff&theme=graywhite" />
 </div>
 
+__reach me by： ari.chen.cn@gmail.com__ <br>
 
 <!--
 **Ari0714/Ari0714** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
