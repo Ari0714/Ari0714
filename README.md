@@ -21,7 +21,6 @@ __proficient__ <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ari0714&layout=compact&langs_count=6&text_color=000&icon_color=fff&theme=graywhite" />
 </div>
 
-__reach me by： ari.chen.cn@gmail.com__ <br>
 
 <!--
 **Ari0714/Ari0714** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
